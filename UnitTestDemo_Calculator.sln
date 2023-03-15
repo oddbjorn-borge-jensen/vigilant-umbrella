@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTestDemo_Calculator", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTestDemo_Calculator.Tests", "UnitTestDemo_Calculator.Tests\UnitTestDemo_Calculator.Tests.csproj", "{CD2136BB-59A4-498A-9EEC-5180A7D412DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestDemo_Calculator.Tests2", "UnitTestDemo_Calculator.Tests2\UnitTestDemo_Calculator.Tests2.csproj", "{9111D747-47B8-465C-806E-1B197BAD3AD6}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{CD2136BB-59A4-498A-9EEC-5180A7D412DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD2136BB-59A4-498A-9EEC-5180A7D412DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD2136BB-59A4-498A-9EEC-5180A7D412DA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9111D747-47B8-465C-806E-1B197BAD3AD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9111D747-47B8-465C-806E-1B197BAD3AD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9111D747-47B8-465C-806E-1B197BAD3AD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9111D747-47B8-465C-806E-1B197BAD3AD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
