@@ -6,7 +6,7 @@ namespace UnitTestDemo_Calculator
     {
         public int Add(int a, int b)
         {
-            return a + b + 1;
+            return a + b;
         }
 
         /// <summary>
